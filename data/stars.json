@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "name": "Manas Chopra",
+    "role": "Devrel @ Qdrant",
+    "bio": "Cool guy",
+    "contributions": [
+      {
+        "type": "YouTube",
+        "title": "Air India",
+        "url": "https://youtu.be/Jm8QHgIB-yE?si=4lTnmYEFh6jeDdf3",
+        "month": "2025-11",
+        "description": ""
+      },
+      {
+        "type": "Medium",
+        "title": "Metadata",
+        "url": "https://mihirinamdar.medium.com/%EF%B8%8F-reporadar-ai-powered-github-discovery-beyond-keywords-360397390d4b",
+        "month": "2025-11",
+        "description": ""
+      }
+    ]
+  }
+]
