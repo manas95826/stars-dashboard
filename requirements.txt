@@ -1,3 +1,4 @@
 streamlit
 python-dateutil
-
+requests
+beautifulsoup4
