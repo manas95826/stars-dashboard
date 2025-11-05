@@ -1,24 +1,109 @@
 [
   {
-    "id": "1",
-    "name": "Manas Chopra",
-    "role": "Devrel @ Qdrant",
-    "bio": "Cool guy",
+    "id": "2",
+    "name": "Niranjan Akella",
+    "role": "MLOps R&D @ Genesys",
+    "bio": "AI engineer with a passion for science and deep expertise in deploying LLMs, diffusion, and vision models at scale.",
     "contributions": [
       {
-        "type": "YouTube",
-        "title": "Air India",
-        "url": "https://youtu.be/Jm8QHgIB-yE?si=4lTnmYEFh6jeDdf3",
-        "month": "2025-11",
+        "type": "LinkedIn",
+        "title": "Key Quantified Benefits with Qdrant's 1.5-bit Binary Quantization:",
+        "url": " https://www.linkedin.com/posts/niranjanakella_rag-vectordb-industry-activity-7389501797201199105-5iLL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADDtH8YBopJ_6zXwNOnIGQLSE1Il7j3Er88 ",
+        "month": "2025-10",
+        "description": ""
+      },
+      {
+        "type": "LinkedIn",
+        "title": "Qdrant MCP Server Promotion",
+        "url": "https://www.linkedin.com/posts/niranjanakella_installation-qdrant-activity-7389849104199233536-1CN-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADDtH8YBopJ_6zXwNOnIGQLSE1Il7j3Er88",
+        "month": "2025-10",
+        "description": ""
+      },
+      {
+        "type": "LinkedIn",
+        "title": "Qdrant Course Promotion",
+        "url": "https://www.linkedin.com/posts/niranjanakella_ai-agents-vector-activity-7389942967899394049-K1wX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADDtH8YBopJ_6zXwNOnIGQLSE1Il7j3Er88",
+        "month": "2025-10",
+        "description": ""
+      },
+      {
+        "type": "Substack",
+        "title": "Sub 10ms RAG on CPU: 1.5bit Quantisation with Qdrant and fastRTC for Real-Time AI Agents",
+        "url": "https://niranjanakella.substack.com/p/sub-10ms-rag-on-cpu-15bit-quantisation?r=2so6ka",
+        "month": "2025-10",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Tarun Jain",
+    "role": "Super Agent @ AI Planet",
+    "bio": "Google Developer Expert in AI and two-time Google Summer of Code contributor (Red Hen Lab and caMicroscope). Creates educational AI content on YouTube and regularly speaks at tech events.",
+    "contributions": [
+      {
+        "type": "Meetups/Events",
+        "title": "Search Matters: Engineering Search System that works",
+        "url": "https://pycon.hk/schedule",
+        "month": "2025-10",
+        "description": "FastEmbed as the embeddings and used a Hybrid search and MMR snippet using Qdrant as the Vector store. \n"
+      },
+      {
+        "type": "Meetups/Events",
+        "title": "Long Term Memory for Gemini. ",
+        "url": "https://devfest.gdgbaroda.com/schedule",
+        "month": "2025-10",
+        "description": "Used FastEmbed as the embeddings from LangChain and used Qdrant Store vector config via Mem0."
+      },
+      {
+        "type": "Meetups/Events",
+        "title": " Local Agentic RAG using Gemma and Qdrant",
+        "url": "https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-ahlen-amp-heilbronn-2025-gemma-day/",
+        "month": "2025-10",
+        "description": ""
+      },
+      {
+        "type": "Open Source",
+        "title": "Mem0 now supports FastEmbed   ",
+        "url": "https://github.com/mem0ai/mem0/pull/3552",
+        "month": "2025-10",
+        "description": ""
+      },
+      {
+        "type": "Open Source",
+        "title": "Routing in function calling using LangGraph, Gemma, and Qdrant",
+        "url": "https://github.com/google-gemini/gemma-cookbook/pull/254",
+        "month": "2025-10",
+        "description": "Gemma doesn’t support native function calling, so he showed an alternative that can be used via an Agentic RAG use case. \n"
+      },
+      {
+        "type": "Open Source",
+        "title": "Bug-fix: FastEmbed is hardcoded to 384",
+        "url": "https://github.com/agno-agi/agno/pull/4964",
+        "month": "2025-10",
         "description": ""
       },
       {
         "type": "Medium",
-        "title": "Metadata",
-        "url": "https://mihirinamdar.medium.com/%EF%B8%8F-reporadar-ai-powered-github-discovery-beyond-keywords-360397390d4b",
-        "month": "2025-11",
-        "description": ""
+        "title": "Implement Long-term memory to Large Language models that works",
+        "url": "https://medium.com/@jaintarun7/implement-long-term-memory-to-large-language-models-3af0636d4a9a",
+        "month": "2025-10",
+        "description": "Add personalised context to the LLM using FastEmbed and Qdrant via Mem0 and monitor the application using Weave by Wandb"
+      },
+      {
+        "type": "Substack",
+        "title": "Custom Function Calling Router for Gemma-3",
+        "url": "https://aiwthtarun.substack.com/p/custom-function-calling-router-for",
+        "month": "2025-10",
+        "description": "Implement and monitor a function-calling workflow using LangGraph, Google GenAI, Qdrant, and Opik."
+      },
+      {
+        "type": "YouTube",
+        "title": "Build and Evaluate an Agentic RAG || How Uber is using AI Agents?",
+        "url": "https://www.youtube.com/watch?v=KH4OxcZuMw0",
+        "month": "2025-10",
+        "description": "In this build, he recreated a prototype inspired by Uber’s Enhanced Agentic-RAG: What If Chatbots Could Deliver Near-Human Precision?"
       }
-    ]
+    ],
+    "id": "tarun_jain"
   }
 ]
